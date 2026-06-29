@@ -1,11 +1,13 @@
 Hi, I'm Joud. I'm a rising Junior at Trinity College in Hartford. I like to build software that saves people time and money.
 
-<details>
-<summary><sub>› vanity mode</sub></summary>
-
 <br>
 
 <div align="center">
+
+<details>
+<summary><img src="https://img.shields.io/badge/vanity%20mode-OFF-1a1a1a?style=for-the-badge&logo=sparkfun&logoColor=white"></summary>
+
+<br>
 
 # 🚀✨ JOUD BITAR ✨🚀
 ### `< Full-Stack Visionary // AI-Native Paradigm Shifter // Serial Disruptor >`
@@ -16,34 +18,17 @@ Hi, I'm Joud. I'm a rising Junior at Trinity College in Hartford. I like to buil
 
 <br>
 
-![stats](https://github-readme-stats.vercel.app/api?username=joudbitar&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&custom_title=)
+![stats](https://github-readme-stats.vercel.app/api?username=joudbitar&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=joudbitar&hide_border=true)
 
-</div>
-
----
-
 > "I don't write code. I architect the future." — me, probably
 
-### 📊 Vanity Metrics
-
-| Metric | Number |
+| Vanity Metric | Number |
 |---|---|
 | Frameworks I can pronounce | 23 |
 | Grass touched | a lot |
 
-<sub>(real-time commit/star/streak flexing handled by the cards above)</sub>
-
-### 🏆 Real Metrics
-
-| Metric | Number |
-|---|---|
-| Paying clients | 1 |
-| Universities using TrayPal | 1 |
-| VC funding | $0 |
-| Cofounders | 0 |
-
-<sub><i>vanity metrics audited by nobody. real metrics audited by my bank account.</i></sub>
-
 </details>
+
+</div>
