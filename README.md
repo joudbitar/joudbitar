@@ -31,8 +31,9 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 
 ## 🎹 Music
 
-- Classical piano since 2018, guitar since 2021, now mostly jazz
-- Guitar in the Trinity Jazz Ensemble, keys in a few campus bands, and regular DJ gigs
+- Classical piano (2018 — now)
+- Guitar, now mostly jazz (2021 — now)
+- Trinity Jazz Ensemble, campus bands, and regular DJ gigs (2024 — now)
 
 ## 🛠 Technologies I Use
 
