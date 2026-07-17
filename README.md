@@ -1,9 +1,8 @@
-## Hi There! 👋
+# Hi there 👋 I'm Joud
 
-I'm Joud — CS + music minor at Trinity College ('28), from Lebanon. I build software that saves people time and money.
+I'm studying Computer Science and Music at Trinity College. I'm originally from Beirut, Lebanon. Right now I'm working on TrayPal, a dining intelligence company that improves dining at college campuses.
 
-- AI-native workflow: I set the architecture and review everything; agents do the typing
-- Some of it has users, some of it has revenue
+I'm also building TradePulse, a contract and operations platform for a physical cocoa and coffee trading firm. It's commissioned client work, running in production on a multi-year retainer.
 
 ## 📚 Projects
 
