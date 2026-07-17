@@ -54,10 +54,6 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 ![](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Socials
-
-[![Website](https://img.shields.io/badge/joudbitar.com-1a1a1a?style=for-the-badge&logo=safari&logoColor=white)](https://joudbitar.com)
-
 <div align="center">
   <img src="metrics.isocalendar.svg" alt="Isometric contribution calendar">
 </div>
