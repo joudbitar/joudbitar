@@ -31,9 +31,10 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 
 ## 🎹 Music
 
-- Classical piano (2018 — now)
-- Guitar, now mostly jazz (2021 — now)
-- Trinity Jazz Ensemble, campus bands, and regular DJ gigs (2024 — now)
+- Trinity Jazz Ensemble, guitar (Sept. 2024 — Present)
+- The Mill, DJ and music technician (Jan. 2025 — Present)
+- Trinity Spring Festival, headliner (May 2025 & 2026)
+- École des Arts Ghassan Yammine, classical piano (2017 — 2022)
 
 ## 🛠 Technologies I Use
 
