@@ -32,8 +32,8 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 ## 🎹 Music
 
 - Trinity Jazz Ensemble, guitar (Sept. 2024 — Present)
-- The Mill, DJ and music technician (Jan. 2025 — Present)
 - Trinity Spring Festival, headliner (May 2025 & 2026)
+- The Mill, DJ and music technician at Trinity's live-music venue (Jan. 2025 — Present)
 - École des Arts Ghassan Yammine, classical piano (2017 — 2022)
 
 ## 🛠 Technologies I Use
