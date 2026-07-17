@@ -29,9 +29,10 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 - B.S. Computer Science, Minor in Music @ Trinity College, Hartford CT (2024 — 2028)
 - IB Diploma @ UWC Maastricht (2022 — 2024)
 
-## 🎹 The Music Minor Is Not Decorative
+## 🎹 Music
 
-Classical piano since 2018, guitar since 2021 — now mostly jazz. Guitar in the Trinity Jazz Ensemble, keys in a few campus bands, and regular DJ gigs.
+- Classical piano since 2018, guitar since 2021, now mostly jazz
+- Guitar in the Trinity Jazz Ensemble, keys in a few campus bands, and regular DJ gigs
 
 ## 🛠 Technologies I Use
 
