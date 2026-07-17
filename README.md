@@ -4,6 +4,10 @@ I'm studying Computer Science and Music at Trinity College. I'm originally from 
 
 I'm also building TradePulse, a contract and operations platform for a physical cocoa and coffee trading firm. It's commissioned client work, running in production on a multi-year retainer.
 
+<div align="center">
+  <img src="metrics.classic.svg" alt="GitHub metrics">
+</div>
+
 ## 📚 Projects
 
 | Project | Link | Description |
@@ -53,6 +57,10 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 ## Socials
 
 [![Website](https://img.shields.io/badge/joudbitar.com-1a1a1a?style=for-the-badge&logo=safari&logoColor=white)](https://joudbitar.com)
+
+<div align="center">
+  <img src="metrics.isocalendar.svg" alt="Isometric contribution calendar">
+</div>
 
 <br>
 
