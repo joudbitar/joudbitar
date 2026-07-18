@@ -30,15 +30,15 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 
 ## 🎓 Education
 
-- **B.S. Computer Science, Minor in Music** · Trinity College, Hartford, CT · 2024–2028
-- **IB Diploma** · UWC Maastricht, Netherlands · 2022–2024
+- **B.S. Computer Science, Minor in Music**, Trinity College, Hartford, CT (2024–2028)
+- **IB Diploma**, UWC Maastricht, Netherlands (2022–2024)
 
 ## 🎹 Music
 
-- Trinity Jazz Ensemble, guitar (Since Sept. 2024)
-- Trinity Spring Festival, headliner (May 2025 & 2026)
-- The Mill, DJ and music technician at Trinity's live-music venue (Since Jan. 2025)
-- École des Arts Ghassan Yammine, classical piano (2017–2022)
+- **Trinity Jazz Ensemble**, guitar (Since Sept. 2024)
+- **Trinity Spring Festival**, headliner (May 2025 & 2026)
+- **The Mill**, DJ and music technician at Trinity's live-music venue (Since Jan. 2025)
+- **École des Arts Ghassan Yammine**, classical piano (2017–2022)
 
 <h2 align="center">Vanity Metrics</h2>
 
