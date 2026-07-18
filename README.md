@@ -11,14 +11,14 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 
 | Project | Link | Description |
 | ------- | ---- | ----------- |
-| **TrayPal** | [Website](https://traypal.app) | Campus dining app · 100–200 visits/day |
-| **TradePulse** | Private client work | Ops platform for a cocoa & coffee trading firm · in production |
-| **Doctor sites** | [nizarbitar.com](https://nizarbitar.com) · [souhanasreddine.com](https://souhanasreddine.com) | Websites for medical practices |
-| **Meshkat** | [meshkat.art](https://meshkat.art) | Record label site |
+| **TrayPal** | [Website](https://traypal.app) | Campus dining app (100–200 visits/day) |
+| **TradePulse** | Private client work | Ops platform for a cocoa & coffee trading firm (in production) |
+| **Doctor sites** | [Website](https://nizarbitar.com) / [Website](https://souhanasreddine.com) | Websites for medical practices |
+| **Meshkat** | [Website](https://meshkat.art) | Record label site |
 | **Cut Coach** | [Repo](https://github.com/joudbitar/cut-coach) | Meal logging + workouts pushed to my Garmin |
-| **Leet Tracker** | [Live](https://leet-tracker-pied.vercel.app) · [Repo](https://github.com/joudbitar/leet-tracker) | NeetCode-150 progress tracker |
+| **Leet Tracker** | [Website](https://leet-tracker-pied.vercel.app) / [Repo](https://github.com/joudbitar/leet-tracker) | NeetCode-150 progress tracker |
 | **Shelly** | [Repo](https://github.com/joudbitar/shelly) | 48h hackathon DSA toolkit |
-| **Casebooks** | [Live](https://casedrills.vercel.app) · [Repo](https://github.com/joudbitar/casebooks) | 20 searchable MBA casebooks + timed case math drills |
+| **Casebooks** | [Website](https://casedrills.vercel.app) / [Repo](https://github.com/joudbitar/casebooks) | 20 searchable MBA casebooks + timed case math drills |
 | **Playlists** | [Repo](https://github.com/joudbitar/playlists) | All the DJ sets I've performed |
 
 ## 👔 Experience
