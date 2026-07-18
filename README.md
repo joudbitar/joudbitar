@@ -19,7 +19,7 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 | **Cut Coach** | [Repo](https://github.com/joudbitar/cut-coach) | Meal logging + workouts pushed to my Garmin |
 | **Leet Tracker** | [Live](https://leet-tracker-pied.vercel.app) · [Repo](https://github.com/joudbitar/leet-tracker) | NeetCode-150 progress tracker |
 | **Shelly** | [Repo](https://github.com/joudbitar/shelly) | 48h hackathon DSA toolkit |
-| **Road to MBB** | [Repo](https://github.com/joudbitar/roadtombb) | Casebook search for MBB case prep |
+| **Casebooks** | [Live](https://casedrills.vercel.app) · [Repo](https://github.com/joudbitar/casebooks) | 20 searchable MBA casebooks + timed case math drills |
 
 ## 👔 Experience
 
