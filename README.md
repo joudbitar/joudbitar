@@ -42,6 +42,8 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 
 <h2 align="center">Vanity Metrics</h2>
 
+<h4 align="center">Technologies I've Used</h4>
+
 <div align="center">
 
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
