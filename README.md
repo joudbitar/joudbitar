@@ -13,7 +13,7 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 | ------- | ---- | ----------- |
 | **TrayPal** | [Website](https://traypal.app) | Campus dining app (100–200 visits/day) |
 | **TradePulse** | Private client work | Ops platform for a cocoa & coffee trading firm (in production) |
-| **Doctor sites** | [Website](https://nizarbitar.com) / [Website](https://souhanasreddine.com) | Websites for medical practices |
+| **Doctor sites** | [Dr. Nizar Bitar](https://nizarbitar.com) / [Dr. Souha Nasreddine](https://souhanasreddine.com) | Websites for medical practices |
 | **Meshkat** | [Website](https://meshkat.art) | Record label site |
 | **Cut Coach** | [Repo](https://github.com/joudbitar/cut-coach) | Meal logging + workouts pushed to my Garmin |
 | **Leet Tracker** | [Website](https://leet-tracker-pied.vercel.app) / [Repo](https://github.com/joudbitar/leet-tracker) | NeetCode-150 progress tracker |
