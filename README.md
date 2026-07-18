@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="metrics.classic.svg" alt="GitHub metrics">
-</div>
-
 # Hi there 👋 I'm Joud
+
+<img src="metrics.classic.svg" alt="GitHub metrics">
+
 
 I'm studying Computer Science and Music at Trinity College. I'm originally from Beirut, Lebanon. Right now I'm working on TrayPal, a dining intelligence company that improves dining at college campuses.
 
