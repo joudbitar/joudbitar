@@ -20,7 +20,7 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 | **Leet Tracker** | [Live](https://leet-tracker-pied.vercel.app) · [Repo](https://github.com/joudbitar/leet-tracker) | NeetCode-150 progress tracker |
 | **Shelly** | [Repo](https://github.com/joudbitar/shelly) | 48h hackathon DSA toolkit |
 | **Casebooks** | [Live](https://casedrills.vercel.app) · [Repo](https://github.com/joudbitar/casebooks) | 20 searchable MBA casebooks + timed case math drills |
-| **Playlists** | [Repo](https://github.com/joudbitar/playlists) | Every DJ set I've performed, open-sourced · 566 tracks |
+| **Playlists** | [Repo](https://github.com/joudbitar/playlists) | All the DJ sets I've performed |
 
 ## 👔 Experience
 
