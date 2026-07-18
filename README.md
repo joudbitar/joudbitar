@@ -40,6 +40,8 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 - The Mill, DJ and music technician at Trinity's live-music venue (Jan. 2025 — Present)
 - École des Arts Ghassan Yammine, classical piano (2017 — 2022)
 
+<h2 align="center">Vanity Metrics</h2>
+
 ## 🛠 Technologies I Use
 
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
