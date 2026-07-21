@@ -18,6 +18,7 @@ I'm also building TradePulse, a contract and operations platform for a physical 
 | **Cut Coach** | [Repo](https://github.com/joudbitar/cut-coach) | Meal logging + workouts pushed to my Garmin |
 | **grind150** | [Website](https://leet-tracker-pied.vercel.app) / [Repo](https://github.com/joudbitar/leet-tracker) | NeetCode-150 progress tracker |
 | **lazydev** | [Repo](https://github.com/joudbitar/lazydev) | Every dev server gets a permanent URL; wakes on request, sleeps when idle |
+| **joud-skills** | [Repo](https://github.com/joudbitar/joud-skills) | Claude Code skills that strip the AI slop from what you ship |
 | **Shelly** | [Repo](https://github.com/joudbitar/shelly) | 48h hackathon DSA toolkit |
 | **Casebooks** | [Website](https://casedrills.vercel.app) / [Repo](https://github.com/joudbitar/casebooks) | Search 4,400 pages of consulting cases via local embeddings & a case math trainer |
 | **Playlists** | [Repo](https://github.com/joudbitar/playlists) | All the DJ sets I've performed |
